@@ -1,5 +1,4 @@
 #Devendra Uraon 
-
 def solution(data, n):
     ans = []
     if len(data) < 100:
