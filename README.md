@@ -1,7 +1,7 @@
 # Google-Foobar
 Foobar is a semi-secret hiring challenge Google put out there to find talented developers via somewhat unconventional yet fitting means. Foobar is a series of five levels of algorithmic questions of ever-increasing difficulty and allotted time to solve these questions.
 
-# This challenge has 5-Levels.
+# This challenge has 5-Levels
 First 3 levels are easy as questions are asked from DFS, BFS, number theory or simple DP **whereas** Level-4 & Level-5 can be challenging you with Graphs, combinatorics, bitmask DP. In my case (when i was invited for first time)  the last two level questions were from combinatorics & mostly mathematical field..permutations, Group theory etc.
 
 # How to give Google Foobar Challenge?
