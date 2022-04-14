@@ -1,4 +1,4 @@
-#Author: Tania Rebello
+#Author: Tania Rebello - Farewell until we code again iamhiphopkids ♥
 #bfs approach
 def solution(map):
     a = pathlength(map)
@@ -27,4 +27,3 @@ def pathlength(map):
 def exit(map):
     return [[v for v in reversed(row)] for row in reversed(map)]
     
-# Farewell until we code again iamhiphopkids ♥
