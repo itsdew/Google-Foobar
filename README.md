@@ -7,7 +7,7 @@ First 3 levels are easy as questions are asked from DFS, BFS, number theory or s
 # How to give Google Foobar Challenge?
 There's no option to manually apply for **Foobar Challenge**, If you are likely to be worthy So challenge itself will come to you.
 
-# The secret
+# The secret:
 If you continuously search topics related to programming in chrome browser, So after some time you can see an invitation that says "You're speaking our language, Up for a challenge?"
 You just have to click on "I want to play" Button to enter the **Foobar Challenge**.
 
