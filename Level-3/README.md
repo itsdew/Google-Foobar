@@ -6,7 +6,7 @@ You have maps of parts of the space station, each starting at a work area exit a
 
 Write a function <code>solution(map)</code> that generates the length of the shortest path from the station door to the escape pod, where you are allowed to remove one wall as part of your remodeling plans. The path length is the total number of nodes you pass through, counting both the entrance and exit nodes. The starting and ending positions are always passable <code>(0)</code>. The map will always be solvable, though you may or may not need to remove a wall. The height and width of the map can be from <code>2</code> to <code>20</code>. Moves can only be made in cardinal directions; no diagonal moves are allowed.
 
-**Test Cases:**
+**Test Cases:** 
 
 Input: <br>
 (int list) <code>[[0, 1, 1, 0], [0, 0, 0, 1], [1, 1, 0, 0], [1, 1, 1, 0]]</code> <br>
